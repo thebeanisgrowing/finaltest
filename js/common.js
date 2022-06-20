@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function(){
         });
         $(document).ready(function(){
             $('.slick_gallery3').slick({
-            dots: true,
+            dots: false,
             infinite: false,
             speed: 700,
             slidesToShow: 2,
